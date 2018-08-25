@@ -84,5 +84,5 @@ print('\nOs valores são \033[32m{}\033[m e \033[31m{}\033[m!!!'.format(a, b))
 nome = 'Lucas'
 print('Olá, muito prazer em te conhecer, {}{}{}!!!'.format('\033[4;34m', nome, '\033[m'))
 
-print('Exemplo usando coleção --> Olá, muito prazer em te conhecer, {}{}{}!!!'
+print('Exemplo usando coleção --> Olá, muito prazer, {}{}{}!!!'
       .format(cores['pretoebranco'], nome, cores['limpa']))
