@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b33cb49f-4bb3-469e-9b35-97ae423552f8" name="Default" comment="Novos desafios" />
+=======
+    <list default="true" id="b33cb49f-4bb3-469e-9b35-97ae423552f8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cev_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cev_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,6 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
     <session id="-200011394">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
@@ -18,15 +28,27 @@
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="5" />
+=======
+    <session id="1497686324">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="30" />
+=======
+          <entry key="py" value="2" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="Python" value="30" />
         </counts>
       </usages-collector>
@@ -40,12 +62,16 @@
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
           <entry key="Python" value="2210" />
+=======
+          <entry key="Python" value="2" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Desafios/Desafio036.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,6 +113,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Aulas/Fase11_CoresNoPython.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="86" column="51" selection-start-line="86" selection-start-column="51" selection-end-line="86" selection-end-column="51" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
             </state>
           </provider>
         </entry>
@@ -133,6 +166,7 @@
       <list>
         <option value="$USER_HOME$/Desktop/Scripts-Python/PycharmProjects/PythonDesafios/ex001.py" />
         <option value="$PROJECT_DIR$/Desafios/Desafio001.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Desafios/Desafio041.py" />
         <option value="$PROJECT_DIR$/Desafios/Desafio042.py" />
         <option value="$PROJECT_DIR$/Desafios/Desafio043.py" />
@@ -144,6 +178,9 @@
         <option value="$PROJECT_DIR$/Desafios/Desafio038.py" />
         <option value="$PROJECT_DIR$/Desafios/Desafio039.py" />
         <option value="$PROJECT_DIR$/Desafios/Desafio040.py" />
+=======
+        <option value="$PROJECT_DIR$/Aulas/Fase11_CoresNoPython.py" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
       </list>
     </option>
   </component>
@@ -161,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,6 +209,7 @@
               <item name="Python_CeV" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_CeV" type="462c0819:PsiDirectoryNode" />
               <item name="Aulas" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="Python_CeV" type="b2602c69:ProjectViewProjectNode" />
@@ -183,14 +220,18 @@
               <item name="Python_CeV" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_CeV" type="462c0819:PsiDirectoryNode" />
               <item name="Desafios" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -200,6 +241,10 @@
       <recent name="C:\Users\sandro_ferreira\PycharmProjects\Python_CeV\Desafios\Mundo 01" />
     </key>
   </component>
+=======
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -212,6 +257,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.Desafio040">
     <configuration name="Desafio036" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cev_Python" />
@@ -235,6 +281,10 @@
       <method v="2" />
     </configuration>
     <configuration name="Desafio037" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.Fase11_CoresNoPython">
+    <configuration name="Desafio008" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
       <module name="cev_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +296,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/Desafio037.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/Desafio008.py" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +309,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Desafio038" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Fase11_CoresNoPython" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
       <module name="cev_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,11 +321,57 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/Desafio038.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Fase11_CoresNoPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula008_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cev_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/aula008_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula009_manupulando_texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cev_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/aula009_manupulando_texto.py" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,6 +400,7 @@
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
+<<<<<<< HEAD
     </configuration>
     <configuration name="Desafio040" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cev_Python" />
@@ -332,6 +437,23 @@
         <item itemvalue="Python.Desafio038" />
         <item itemvalue="Python.Desafio037" />
         <item itemvalue="Python.Desafio036" />
+=======
+    </configuration>
+    <list>
+      <item itemvalue="Python.desafio2" />
+      <item itemvalue="Python.Desafio008" />
+      <item itemvalue="Python.Fase11_CoresNoPython" />
+      <item itemvalue="Python.aula008_2" />
+      <item itemvalue="Python.aula009_manupulando_texto" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Fase11_CoresNoPython" />
+        <item itemvalue="Python.aula009_manupulando_texto" />
+        <item itemvalue="Python.aula008_2" />
+        <item itemvalue="Python.Desafio008" />
+        <item itemvalue="Python.desafio2" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
       </list>
     </recent_temporary>
   </component>
@@ -359,18 +481,32 @@
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24894217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992948" visible="true" weight="0.32822478" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5229983" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50070524" side_tool="true" visible="true" weight="0.32822478" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32879046" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -390,11 +526,16 @@
     <entry file="file://$PROJECT_DIR$/Desafios/desafio2.py" />
     <entry file="file://$PROJECT_DIR$/Desafios/Desafio001.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="100">
+=======
+        <state relative-caret-position="95">
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Desafios/Desafio008.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -406,11 +547,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+=======
+    <entry file="file://$PROJECT_DIR$/Aulas/Fase 08 - Módulos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafios/Desafio008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Aulas/Fase11_CoresNoPython.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="306">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
@@ -506,6 +661,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+=======
+        <state relative-caret-position="66">
+          <caret line="86" column="51" selection-start-line="86" selection-start-column="51" selection-end-line="86" selection-end-column="51" />
+>>>>>>> 7cfc5d162c43cc44ac1e5b5eccde38e0d0c1ae10
         </state>
       </provider>
     </entry>
